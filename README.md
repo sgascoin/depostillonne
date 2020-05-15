@@ -1,22 +1,9 @@
 # depostillonne
 [Notebook pour éradiquer les postillons dans les conversations en la langue française](https://github.com/sgascoin/depostillonne/blob/master/depostillonne.ipynb)
 
-Source: [Allocution phonétique du mrésinent ne la rémumliñe](https://blogs.mediapart.fr/lenous/blog/020520/allocution-phonetique-du-mresinent-ne-la-remumline). Coups de cœur, coups de vents et autres trafalgars, [LeNous](https://blogs.mediapart.fr/lenous).
+Source: [Covid19 : la phonétique du postillon](https://www.plaf.org/articles/la_phonetique_du_postillon/).
 
-> Mesdames et Messieurs, chères et chers compatriotes
-> 
-> Je vais de nouveau faire appel au sens du devoir et à ces notions de transformation radicale qui sont si chères à notre pays.
-> Une nouvelle fois j’ai donc fait appel aux plus hautes sommités scientifiques de ce pays qui ont évidement répondu “présent” avec un élan de générosité absolu.
-> Et ce sont les spécialistes du langage qui ont trouvé la solution.
-> 
-> Le virus se transmet par les postillons, et donc les voyelles sont totalement innocentes, ce sont les consonnes qui sont les coupables.
-> 
-> Nous avons par conséquent décidé de bâtir un plan de sauvetage national basé sur une révision phonétique étalé sur quatre semaines. Ces mesures résident dans l’application d’une série de révisions remettant en cause l’usage des sonorités occlusives également appelées à juste titre EXPLOSIVES, ainsi que de certaines fricatives.
-> 
-> 
-> Cette série sera limitée à quatre semaines
-> – une série par semaine.
-> Les événements l’exigent : aucune bavure ne sera tolérée.
+> C'est de l'Académie Française que nous viennent ces dernières avancées. Étonnant ? Pas tant que ça. Comme l'ont souligné les études scientifiques, la propagation du coronavirus se fait principalement par l'intermédiaire des "postillons", ces micro-gouttelettes projetées par un éternuement, une toux, ou tout simplement lors d'une conversation. C'est là qu'interviennent les spécialistes du langage, qui ont constaté que dans cette contamination, les voyelles étaient innocentes, alors que plus de la moitié des consonnes étaient engagées dans le processus. Les  conclusions  de  cette  étude  sont  claires  et  résident  dans  l'application  d'un  plan  de  révision phonétique  étalé  sur  quatre  semaines,  remettant  en cause  l'usage  des  sonorités occlusives  – également appelées à juste titre explosives, ainsi que de certaines fricatives. 
 > 
 > Semaine 1 - Suppression des occlusives labiales : P et B, au mrofit de la labiale M. Conséquence : mrès de soixante-dix mourcents des mostillons sont éliminés, et de mlus, on meut constater qu'ainsi la diction gagne meaucoup en soumlesse.
 > 
