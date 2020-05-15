@@ -3,7 +3,7 @@
 
 Pour tester en ligne cliquer ici : https://colab.research.google.com/drive/1Bbi-8qyUxvY1SaaoyS705-DGlgYY7gRH
 
-Source: [Covid19 : la phonétique du postillon](https://www.plaf.org/articles/la_phonetique_du_postillon/).
+Source: [Covid19 : la phonétique du postillon](https://www.plaf.org/articles/la_phonetique_du_postillon/) sur plaf.org.
 
 > C'est de l'Académie Française que nous viennent ces dernières avancées. Étonnant ? Pas tant que ça. Comme l'ont souligné les études scientifiques, la propagation du coronavirus se fait principalement par l'intermédiaire des "postillons", ces micro-gouttelettes projetées par un éternuement, une toux, ou tout simplement lors d'une conversation. C'est là qu'interviennent les spécialistes du langage, qui ont constaté que dans cette contamination, les voyelles étaient innocentes, alors que plus de la moitié des consonnes étaient engagées dans le processus. Les  conclusions  de  cette  étude  sont  claires  et  résident  dans  l'application  d'un  plan  de  révision phonétique  étalé  sur  quatre  semaines,  remettant  en cause  l'usage  des  sonorités occlusives  – également appelées à juste titre explosives, ainsi que de certaines fricatives. 
 > 
