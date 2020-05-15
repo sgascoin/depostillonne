@@ -1,5 +1,7 @@
 # depostillonne
-[Notebook pour éradiquer les postillons dans les conversations en la langue française](https://github.com/sgascoin/depostillonne/blob/master/depostillonne.ipynb)
+[Notebook Python pour éradiquer les postillons dans les conversations en la langue française](https://github.com/sgascoin/depostillonne/blob/master/depostillonne.ipynb)
+
+Pour tester en ligne cliquer ici : https://colab.research.google.com/drive/1Bbi-8qyUxvY1SaaoyS705-DGlgYY7gRH
 
 Source: [Covid19 : la phonétique du postillon](https://www.plaf.org/articles/la_phonetique_du_postillon/).
 
